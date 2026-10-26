@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+4:I[2680,["367","static/chunks/b536a0f1-f7dace469d34b160.js","831","static/chunks/bd904a5c-d1cdf9d74aeb775f.js","592","static/chunks/c15bf2b0-0b7ccb01d0221f08.js","37","static/chunks/37-2a9f262194cb0db2.js","974","static/chunks/app/page-34a8434c2ab70eb5.js"],"PortfolioSite"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+a:I[484,[],"MetadataBoundary"]
+c:I[7123,[],"default",1]
+:HL["/_next/static/media/0ac2f6a35fea3e11-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/5259ff3acd3c33ce-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/57fd1c814f88d927-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/78c3a7085a798956-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/9018efeb338d2e1f-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/f1f8edbc867b2798-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/css/0f6f5970c457b35c.css","style"]
+:HL["/_next/static/css/c2c7e287be0b44ec.css","style"]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f6f5970c457b35c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_61e704 __variable_e0d701 h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L4",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c2c7e287be0b44ec.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mXQB6b9_sOUPRrwiPwzfK"}
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:I[6869,[],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"作品集 | Selected Video Works"}],["$","meta","1",{"name":"description","content":"个人视频作品集 — 滑动浏览，点击播放。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$Ld","3",{}]]
